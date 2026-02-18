@@ -3,7 +3,8 @@
 
 **Author:** Rosaria Chiara Di Lauro
 
-*[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RosariaCDiLauro/psychographic-profiling-experiment/blob/main/psychographic-profiling-experiment.ipynb)*
+*[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RosariaCDiLauro/psychographic-profiling-experiment/blob/main/psychographic_profiling_framework.ipynb)*
+
 
 ---
 
