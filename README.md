@@ -36,7 +36,7 @@ The system processes large-scale social media data (Reddit posts and comments) a
 
 The final goal is to model how **psychological profiling frameworks can be theoretically applied within cyber targeting and influence research contexts**, as explored in the associated master’s thesis:
 
-> **“Psychographic Profiling: Il Ruolo della Psicologia nella Comprensione dei Processi di Targeting Cibernetico”**
+> **“Psychographic Profiling: The Role of Psychology in Understanding Cyber Targeting Processes”**
 
 ---
 
