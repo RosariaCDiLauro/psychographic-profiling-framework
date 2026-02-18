@@ -1,5 +1,5 @@
-# 🧠 Psychographic Cyber Targeting
-*A Computational Framework for Psychographic Profiling in Digital Environments*
+# 🧠 Psychographic Profiling  
+*A Computational Framework for Understanding Cyber Targeting Processes in Digital Environments*
 
 **Author:** Rosaria Chiara Di Lauro
 
